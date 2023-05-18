@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   hooks.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mstockli <mstockli@student.42.fr>          +#+  +:+       +#+        */
+/*   By: max <max@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 22:55:30 by mstockli          #+#    #+#             */
-/*   Updated: 2022/12/13 10:33:18 by mstockli         ###   ########.fr       */
+/*   Updated: 2023/05/18 18:50:22 by max              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ int	key_hook(int keycode, t_fractol *fractol)
 	else if (keycode == RETURN_KEY)
 	{
 		fractol->color_auto *= -1;
-		fractol->max_iter = 500;
+		fractol->max_iter = 300;
 		if (fractol->color_auto == 1)
 			fractol->max_iter = 100;
 	}
