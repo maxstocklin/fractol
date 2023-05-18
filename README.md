@@ -1,7 +1,7 @@
 # Fract-ol - Interactive Fractal Renderer
 
 
-![Example Mandelbrot](./demo/mandelbrot)
+![Example Mandelbrot](./demo/mandelbrot.png)
 
 https://github.com/maxstocklin/fractol/assets/110395136/7fe9f1d3-26f6-4b09-9fbd-321f904c816b
 
