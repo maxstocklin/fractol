@@ -5,7 +5,6 @@ CC=gcc
 CFLAGS= -Wall -Wextra -Werror 
 ##-fsanitize=address
 
-
 #Sources
 DIR_SRC=./sources
 SRCS=	${DIR_SRC}/main.c ${DIR_SRC}/init.c ${DIR_SRC}/zoom.c ${DIR_SRC}/draw.c ${DIR_SRC}/fractals.c ${DIR_SRC}/hooks.c ${DIR_SRC}/exit.c
