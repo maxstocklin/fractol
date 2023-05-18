@@ -69,8 +69,21 @@ Despite the intense computational requirements of fractal rendering, Fract-ol ma
 
 ### Pan Around
 
+
+https://github.com/maxstocklin/fractol/assets/110395136/fc061e27-5bb5-45a6-9147-5dd8fd8db69c
+
+
+
 ### Zoom-in or Zoom-out by scrolling up or down
 
+
+### Mandelbrot
+
+https://github.com/maxstocklin/fractol/assets/110395136/8e8d2d42-d3d2-427d-bd03-0be59bdbdb73
+
+### Julia
+
+### Sierpinski
 
 ## Contributing
 
