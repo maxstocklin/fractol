@@ -16,9 +16,12 @@ Your browser does not support the video tag.
 
 ## Description
 
-Fract-ol is a powerful and interactive fractal rendering program implemented in C using the Minilibx library. It provides an intuitive interface for exploring the mesmerizing world of fractals, with support for popular fractal types including Mandelbrot, Sierpinski, and Julia.
+Fract-ol is an interactive fractal rendering program implemented in C using the Minilibx library. It provides an intuitive interface for exploring the mesmerizing world of fractals, with support for popular fractal types including Mandelbrot, Sierpinski, and Julia.
 
 ## Features
+
+<details>
+<summary>Click to expand</summary>
 
 Fract-ol provides a rich set of features that offer a captivating fractal exploration experience:
 
@@ -36,7 +39,7 @@ Experience a looping color transition that adds a dynamic and visually stunning 
 
 ### High Performance: 
 Despite the intense computational requirements of fractal rendering, Fract-ol maintains smooth, real-time interaction for a seamless user experience.
-
+</details>
 
 ## Installation and Usage
 <details>
