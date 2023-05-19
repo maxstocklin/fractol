@@ -67,30 +67,22 @@ Despite the intense computational requirements of fractal rendering, Fract-ol ma
 
 ## Examples
 
-### Panning
-
-
-https://github.com/maxstocklin/fractol/assets/110395136/fc061e27-5bb5-45a6-9147-5dd8fd8db69c
-
-
-
-### Zoom
-
-
 ### Mandelbrot
 
 https://github.com/maxstocklin/fractol/assets/110395136/8e8d2d42-d3d2-427d-bd03-0be59bdbdb73
 
 ### Julia
 
-### Sierpinski
+https://github.com/maxstocklin/fractol/assets/110395136/689eb826-634e-4327-bada-ed0313e32851
 
+### Panning
 
-### Noise eff
+https://github.com/maxstocklin/fractol/assets/110395136/fc061e27-5bb5-45a6-9147-5dd8fd8db69c
 
-https://github.com/maxstocklin/fractol/assets/110395136/018b3a2a-6c56-4cef-a76e-a1b60292e615
+### Noise effect
 
-ect
+https://github.com/maxstocklin/fractol/assets/110395136/b87d895f-1c94-4b36-b3da-e461ca20240a
+
 
 ## Contributing
 
