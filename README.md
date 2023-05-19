@@ -3,9 +3,6 @@
 
 ![Example Mandelbrot](./demo/mandelbrot.png)
 
-https://github.com/maxstocklin/fractol/assets/110395136/7fe9f1d3-26f6-4b09-9fbd-321f904c816b
-
-
 ## Table of Contents
 1. [Description](#description)
 1. [Features](#features)
