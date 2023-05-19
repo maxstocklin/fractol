@@ -67,14 +67,14 @@ Despite the intense computational requirements of fractal rendering, Fract-ol ma
 
 ## Examples
 
-### Pan Around
+### Panning
 
 
 https://github.com/maxstocklin/fractol/assets/110395136/fc061e27-5bb5-45a6-9147-5dd8fd8db69c
 
 
 
-### Zoom-in or Zoom-out by scrolling up or down
+### Zoom
 
 
 ### Mandelbrot
@@ -84,6 +84,13 @@ https://github.com/maxstocklin/fractol/assets/110395136/8e8d2d42-d3d2-427d-bd03-
 ### Julia
 
 ### Sierpinski
+
+
+### Noise eff
+
+https://github.com/maxstocklin/fractol/assets/110395136/018b3a2a-6c56-4cef-a76e-a1b60292e615
+
+ect
 
 ## Contributing
 
