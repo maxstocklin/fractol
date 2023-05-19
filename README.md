@@ -76,10 +76,17 @@ https://github.com/maxstocklin/fractol/assets/110395136/689eb826-634e-4327-bada-
 
 https://github.com/maxstocklin/fractol/assets/110395136/fc061e27-5bb5-45a6-9147-5dd8fd8db69c
 
+### Zoom
+
+https://github.com/maxstocklin/fractol/assets/110395136/7fd973be-10a0-4831-a973-14bee2b948ed
+
+https://github.com/maxstocklin/fractol/assets/110395136/c2a8a47f-05fa-458a-a3a0-e45b7edd7350
+
+https://github.com/maxstocklin/fractol/assets/110395136/d4fe2e68-7a83-4dab-9e08-1f0cbcf4b41a
+
 ### Noise effect
 
 https://github.com/maxstocklin/fractol/assets/110395136/b87d895f-1c94-4b36-b3da-e461ca20240a
-
 
 ## Contributing
 
